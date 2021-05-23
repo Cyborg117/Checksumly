@@ -14,12 +14,13 @@ A checksum is a sequence of numbers and letters used to check data for errors. I
 # How Checksum Works
 lets Suppose you Downloaded a File Over Internet and it downloaded completely and successfully then, how would you know if the shown file and the downloaded file are the same? simple , you just compare their checksums which are created by a Specific Hashing Algorithm and if the Checksums match the file is identical and if it doesnt then either the download wasnt completed successfully or the file contains altered/added data.
 
-Note : 
-    1. Length of Checksums will always remain same and doesnot depend on size of file so , a 1Mb file and a 1Gb file will have same checksum length if same Hashing Algorithm is used
-    2. The Smallest change in a File will generate Different Checksums.
-    
+# Note
+1. Length of Checksums will always remain same and doesnot depend on size of file so , a 1Mb file and a 1Gb file will have same checksum length if same Hashing Algorithm is used
+2. The Smallest change in a File will generate Different Checksums.
+
 # Hashing
 Hashing is Cryptographic Function that is used for mapping data of any length to a fixed-length output using an algorithm.
+
 Hashes are irreversible it means you can Encrypt Plaintext to ciphertext but cannot Decrypt Ciphertext to get the Plaintext back.
 
 # Hashing Algorithms
@@ -30,4 +31,4 @@ Hashes are irreversible it means you can Encrypt Plaintext to ciphertext but can
 
 # V2
 1. To Add Support for more Filetypes (Currently only text files(.txt) is used)
-2. to add More Hashing Algorithms
+2. To add More Hashing Algorithms
