@@ -1,5 +1,5 @@
 # Checksum-Generator
-A small Program in python with Tkinter used for Frontend which generates Checksum and also compares two checksums to check for file integrity for files downloaded over internet.
+A small Program in python with Tkinter used for Frontend which Demonstrates the use of Checksums by generating Checksum and also comparing two checksums to check for file integrity for files downloaded over internet.
 
 # How to use
 firstly install pyperclip using "pip install pyperclip"
