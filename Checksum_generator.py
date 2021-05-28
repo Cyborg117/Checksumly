@@ -113,6 +113,9 @@ def checker():
     mf3.rowconfigure(0,weight=1)
     mf3.columnconfigure(0,weight=1)
 
+    hashprovided.set("")
+    hash_matched_unmatched.set("")
+
     l3=ttk.Label(mf3,background="black")
     l3.pack(fill="both",expand="yes")
 
