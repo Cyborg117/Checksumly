@@ -5,6 +5,8 @@
 
 A small Program in python with Tkinter used for Frontend which Demonstrates the use of Checksums by generating Checksum and also comparing two checksums to check for file integrity for files downloaded over internet.
 
+Give a star if you liked it!!
+
 # How to use
 1. firstly install pyperclip using "pip install pyperclip"
 
