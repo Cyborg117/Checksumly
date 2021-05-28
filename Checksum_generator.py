@@ -113,6 +113,7 @@ def checker():
     mf3.rowconfigure(0,weight=1)
     mf3.columnconfigure(0,weight=1)
 
+    cfilename.set("")
     hashprovided.set("")
     hash_matched_unmatched.set("")
 
@@ -149,6 +150,7 @@ def generator():
     sha256.set("")
     sha512.set("")
     blake2.set("")
+    filename.set("")
     
     l1=ttk.Label(mf2,background="black")
     l1.pack(fill="both",expand="yes")
