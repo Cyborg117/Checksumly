@@ -6,9 +6,14 @@
 A small Program in python with Tkinter used for Frontend which Demonstrates the use of Checksums by generating Checksum and also comparing two checksums to check for file integrity for files downloaded over internet.
 
 # How to use
-firstly install pyperclip using "pip install pyperclip"
+1. firstly install pyperclip using "pip install pyperclip"
 
-use Checker to compare Hashes of files and Generator to Generate Hash of a file (MD5,SHA256,SHA512,Blake2)
+2. use Checker to compare Hashes of files and Generator to Generate Hash of a file (MD5,SHA256,SHA512,Blake2)
+
+# Output
+![output1](https://user-images.githubusercontent.com/33039708/119959454-a30c0780-bfc1-11eb-8cd9-1c7bdeb3ad39.JPG) ![output2](https://user-images.githubusercontent.com/33039708/119959502-adc69c80-bfc1-11eb-9905-dbeec3b7fda2.JPG)
+![output3](https://user-images.githubusercontent.com/33039708/119959582-c1720300-bfc1-11eb-8611-950f5c74b64b.JPG)
+
 
 # About Checksums
 A checksum is a small-sized block of data derived from another block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage. By themselves, checksums are often used to verify data integrity but are not relied upon to verify data authenticity.
