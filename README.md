@@ -40,6 +40,13 @@ Hashes are irreversible it means you can Encrypt Plaintext to ciphertext but can
   3. SHA512 - Most Secure but Slowest
   4. Blake2 - More Secure than MD5 and Fast Enough (Recommended)
 
+# Request a Feature
+If you want me to add a Particular Feature in the Source then
+1. Goto Issues and Create a New Issue
+2. There Select a Feature Request Template and Click Get Started
+3. Write Accordingly
+4. OR Contact me at hrithikraj137@gmail.com
+
 # V2
 1. To Add Support for more Filetypes (Currently only text files(.txt) is used)
 2. To add More Hashing Algorithms
