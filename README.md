@@ -7,7 +7,7 @@ A small Program in python with Tkinter used for Frontend which Demonstrates the 
 
 Give a star if you liked it!!
 
-Update : Version 2 released Check it out here : https://github.com/Cyborg117/Checksum-Utility/tree/main/V2
+UPDATE : Version 2 released Check it out here : https://github.com/Cyborg117/Checksum-Utility/tree/main/V2
 
 # How to use
 1. firstly install pyperclip using "pip install pyperclip"
