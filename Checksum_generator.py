@@ -173,7 +173,7 @@ def generator():
         child.grid_configure(padx=10,pady=10)
    
 root=Tk()
-root.title("Checksum generator")
+root.title("Checksum-Util v1.0.0")
 root.resizable(False,False)
 root.iconbitmap("icon.ico")
 mainframe = ttk.Frame(root, padding="3 3 12 12")
