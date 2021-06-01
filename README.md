@@ -1,4 +1,4 @@
-# Checksum-Generator
+# Checksum-Util v1.0.0
 
 ![logo](https://user-images.githubusercontent.com/33039708/119901771-f8193080-bf63-11eb-8946-e153b59a914a.png)
 
