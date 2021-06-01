@@ -56,14 +56,19 @@ If you want me to add a Particular Feature in the Source then
 # Whats New in V2
 V2 released Check it out here : https://github.com/Cyborg117/Checksum-Utility/tree/main/V2
 1. Compare and Generate Checksums
-2. Supports all Files (*.*)
+2. Supports all Files (* . *)
 3. Added a Mechanism to Read Binary Data of Extremely big file in 64Kb Chunks So as to Not Overload the Memory.
 4. Hashing Algorithms:
-     1. Md5                6. SHA384   (new)
-     2. SHA256             7. SHA3_224 (new)
-     3. SHA512             8. SHA3_256 (new)   
-     4. Blake2s            9. SHA3_384 (new)
-     5. SHA224 (new)      10. SHA3_512 (new)
+     1.  Md5                
+     2.  SHA256             
+     3.  SHA512               
+     4.  Blake2s               
+     5.  SHA224   (new)        
+     6.  SHA384   (new)
+     7.  SHA3_224 (new)
+     8.  SHA3_256 (new) 
+     9.  SHA3_384 (new)
+     10. SHA3_512 (new)
      
 # V3 - ??
 V2 will be the Final Major Update. From Now on there will only be minor updates like Bug Fixes and Feature Requests.
