@@ -53,7 +53,7 @@ If you want me to add a Particular Feature in the Source then
 1. To Add Support for more Filetypes (Currently only text files(.txt) is used) - done
 2. To add More Hashing Algorithms - done
 
-#Whats New in V2
+# Whats New in V2
 V2 released Check it out here : https://github.com/Cyborg117/Checksum-Utility/tree/main/V2
 1. Compare and Generate Checksums
 2. Supports all Files (*.*)
@@ -65,6 +65,6 @@ V2 released Check it out here : https://github.com/Cyborg117/Checksum-Utility/tr
      4. Blake2s            9. SHA3_384 (new)
      5. SHA224 (new)      10. SHA3_512 (new)
      
-#V3 - ??
+# V3 - ??
 V2 will be the Final Major Update. From Now on there will only be minor updates like Bug Fixes and Feature Requests.
 I want Inspiration to Release V3 , If you Have Ideas That I can Implement then I'll be Grateful. 
