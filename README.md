@@ -7,6 +7,8 @@ A small Program in python with Tkinter used for Frontend which Demonstrates the 
 
 Give a star if you liked it!!
 
+Update : Version 2 released Check it out here : https://github.com/Cyborg117/Checksum-Utility/tree/main/V2
+
 # How to use
 1. firstly install pyperclip using "pip install pyperclip"
 
@@ -48,5 +50,21 @@ If you want me to add a Particular Feature in the Source then
 4. OR Contact me at hrithikraj137@gmail.com
 
 # V2
-1. To Add Support for more Filetypes (Currently only text files(.txt) is used)
-2. To add More Hashing Algorithms
+1. To Add Support for more Filetypes (Currently only text files(.txt) is used) - done
+2. To add More Hashing Algorithms - done
+
+#Whats New in V2
+V2 released Check it out here : https://github.com/Cyborg117/Checksum-Utility/tree/main/V2
+1. Compare and Generate Checksums
+2. Supports all Files (*.*)
+3. Added a Mechanism to Read Binary Data of Extremely big file in 64Kb Chunks So as to Not Overload the Memory.
+4. Hashing Algorithms:
+     1. Md5                6. SHA384   (new)
+     2. SHA256             7. SHA3_224 (new)
+     3. SHA512             8. SHA3_256 (new)   
+     4. Blake2s            9. SHA3_384 (new)
+     5. SHA224 (new)      10. SHA3_512 (new)
+     
+#V3 - ??
+V2 will be the Final Major Update. From Now on there will only be minor updates like Bug Fixes and Feature Requests.
+I want Inspiration to Release V3 , If you Have Ideas That I can Implement then I'll be Grateful. 
