@@ -1,9 +1,9 @@
-# Checksum-Util v1.0.0
+# Checksumly
 
-![logo](https://user-images.githubusercontent.com/33039708/119901771-f8193080-bf63-11eb-8946-e153b59a914a.png)
+![LogoMakr-4C03e7](https://user-images.githubusercontent.com/33039708/144717156-e8b516d0-a5bd-410f-867f-ad2351baac29.png)
 
 
-A small Program in python with Tkinter used for Frontend which Demonstrates the use of Checksums by generating Checksum and also comparing two checksums to check for file integrity for files downloaded over internet.
+Checksumly is a small Program in python with Tkinter used for Frontend which Demonstrates the use of Checksums by generating Checksum and also comparing two checksums to check for file integrity for files downloaded over internet.
 
 Give a star if you liked it!!
 
